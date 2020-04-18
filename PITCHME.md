@@ -3,14 +3,35 @@
 
 ---
 
-### About Me?
+@title[Add A Little Imagination]
+
+@snap[north-west span-50 text-center]
+#### About Me
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- I'm Vinit Shahdeo
+- Software Engineer at Postman
+- Addicted to green dots on GitHub (@vinitshahdeo)
+- Find me on LinkedIn (@vinitshahdeo) and Twitter (@Vinit_Shahdeo)
+@ulend
+@snapend
+
+@snap[east span-45]
+![IMAGE](assets/img/conference.png)
+@snapend
+
+@snap[south span-100 bg-black fragment]
+@img[shadow](assets/img/conference.png)
+@snapend
+
+---
 
 Vinit Shahdeo
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- Software Engineer at Postman
-- Addicted to green dots on GitHub (@vinitshahdeo)
-- Find me on LinkedIn (@vinitshahdeo) and Twitter (@Vinit_Shahdeo)
+
 @ulend
 @snapend
 
