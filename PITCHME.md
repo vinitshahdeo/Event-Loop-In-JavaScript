@@ -1,9 +1,9 @@
 ## Event Loop in JavaScript 
-### and rise of Asynchronous behaviour
+### and rise of <br>Asynchronous behaviour
 
 ---
 
-### Add Some Slide Candy
+### How is JavaScript asynchronous and single-threaded?
 
 ![IMAGE](assets/img/presentation.png)
 
