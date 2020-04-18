@@ -3,6 +3,19 @@
 
 ---
 
+### About Me?
+
+Vinit Shahdeo
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- Software Engineer at Postman
+- Addicted to green dots on GitHub (@vinitshahdeo)
+- Find me on LinkedIn (@vinitshahdeo) and Twitter (@Vinit_Shahdeo)
+@ulend
+@snapend
+
+---
+
 ### How is JavaScript asynchronous and single-threaded?
 
 ![IMAGE](assets/img/presentation.png)
