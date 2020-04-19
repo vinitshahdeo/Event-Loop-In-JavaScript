@@ -1,4 +1,8 @@
-# Event loop in JavaScript
+# Event loop in JavaScript and rise of Asynchronous Behaviour.
+
+## A webinar by [Coding Blocks]() at [HackOn]() Hackathon.
+
+# [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](https://bit.ly/hackon-js/) | Join at [bit.ly/hackon-js](https://bit.ly/hackon-js/) | 
 
 ## Webinar content [Work In Progress]
 
@@ -21,26 +25,8 @@ _.assign(new Speaker(), user, new Event(title));
 
 ```
 
-```
 
-// Let's get connected
-
-let socialMediaHandles = {
-	facebook: 'vinit.shahdeo',
-	twitter: 'Vinit_Shahdeo',
-	github: 'vinitshahdeo',  // my home page; addicted to green dots
-	linkedin: 'vinitshahdeo'
-};
-let contactDetails = {
-	email: 'vinitshahdeo@gmail.com',
-	social: socialMediaHandles
-};
-
-module.exports = contactDetails;
-
-```
-
-```
+```javascript
 // thank you :)
 
 const THANK_YOU_MSG = `Thank you so much for being here! 
