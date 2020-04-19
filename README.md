@@ -34,6 +34,8 @@ setTimeout(goCorona, 5000);
 
 > That doesn’t mean that `goCorona` will be executed in 5s but rather that, in 5000 ms, `goCorona` will be added to the queue. The queue, however, might have other events that have been added earlier — the function `goCorona` will have to wait. The idea here is the above code gaurantees that `Stay Home, Stay Safe` will be printed anytime after `5000ms`.
 
+- **`setTimeout` returns `timeoutID`** - The returned `timeoutID` is a positive integer value which identifies the timer created by the call to `setTimeout()`. This value can be passed to `clearTimeout()` to cancel the timeout.
+
 - **The Event Loop has one simple job — to watch the Call Stack and the Callback Queue**. If the Call Stack is empty, it will take the first event from the queue and will push it to the Call Stack, which effectively runs it.
 
 <br>
