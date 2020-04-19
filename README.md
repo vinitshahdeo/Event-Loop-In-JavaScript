@@ -10,7 +10,7 @@
 
 > ### Join at [bit.ly/hackon-js](http://bit.ly/hackon-js)
 
-## Takeaways :bulb:
+## :five: Five Takeaways :bulb:
 
 - JavaScript is **single threaded**, it simply means it has a **single call stack**.
 
@@ -19,6 +19,8 @@
 - The asynchronous behaviour is not part of the JavaScript language itself, rather they are built on top of the core JavaScript language in the browser (or the programming environment) and accessed through the **browser APIs**.
 
 - **`setTimeout(function, delay)`** does not stand for the precise time delay after which the function is executed. It stands for the minimum wait time after which at some point in time the function will be executed. 
+
+<br>
 
 > Take a look at the below code:
 
@@ -33,6 +35,8 @@ setTimeout(goCorona, 5000);
 ```
 
 > That doesn’t mean that `goCorona` will be executed in 5s but rather that, in 5000 ms, `goCorona` will be added to the queue. The queue, however, might have other events that have been added earlier — the function `goCorona` will have to wait. The idea here is the above code gaurantees that `Stay Home, Stay Safe` will be printed anytime after `5000ms`.
+
+<br>
 
 - **`setTimeout` returns `timeoutID`** - The returned `timeoutID` is a positive integer value which identifies the timer created by the call to `setTimeout()`. This value can be passed to `clearTimeout()` to cancel the timeout.
 
