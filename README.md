@@ -3,10 +3,13 @@
 ## A webinar by [Coding Blocks](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) at [HackOn](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) Hackathon. 
 
 # [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](https://bit.ly/hackon-js/)
+
 <br>
+
 > ### Join at [bit.ly/hackon-js](https://bit.ly/hackon-js/)
 
 <br>
+
 ## About Me
 
 
@@ -65,6 +68,13 @@ while(_.isAlive(new Virus('COVID-19'))) {
 }
 ```
 <br>
+
+## Any doubts?
+
+> You can find the PPT [here]().
+
+### Feel free to raise an issue.
+
 
 ## Checkout my recent works below:
 
