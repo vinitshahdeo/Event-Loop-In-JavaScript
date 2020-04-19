@@ -27,7 +27,7 @@ setTimeout(() => console.log('Chant, Go Corona, Corona Go 😃'), 0);
 
 console.log('Thank You!');
 ```
-
+<br>
 
 ## :five: Five Takeaways :bulb:
 
@@ -97,7 +97,7 @@ _.assign(new Speaker(), user, new Event(title));
 
 > **Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk).**
 
-#### Well, in this unprecedented time, you all have showed interest. I thank all of you for joining me. Stay Safe at home.
+#### Well, in this unprecedented time, you all have showed interest. I thank all of you for joining me. :hugs: Stay Safe at home.
 
 :mask: :house:
 <br><br>
