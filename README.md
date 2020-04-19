@@ -70,7 +70,7 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 > You can find the PPT [here]().
 
-### Feel free to raise an issue.
+### Feel free to shoot your doubts [here](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/issues/1).
 
 ## Checkout my recent works below:
 
