@@ -1,8 +1,8 @@
-# Event loop in JavaScript and rise of Asynchronous Behaviour.
+# Event loop :arrows_counterclockwise: in JavaScript and rise of Asynchronous Behaviour.
 
 ## A webinar by [Coding Blocks](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) at [HackOn](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) Hackathon. 
 
-# [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](https://bit.ly/hackon-js/)
+# :red_circle: [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](https://bit.ly/hackon-js/) 
 
 <br>
 
@@ -66,13 +66,14 @@ while(_.isAlive(new Virus('COVID-19'))) {
 ```
 <br>
 
-## Any doubts?
+## :confused: Any doubts? 
 
-> You can find the PPT [here]().
+> :point_right: You can find the [PPT](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/blob/master/doc/%5BHack0N%5D%20Event%20loop%20in%20JS%20-%20PDF%20(5).pdf) inside `docs` folder.
+>:point_right: [Click here](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/raw/master/doc/%5BHack0N%5D%20Event%20loop%20in%20JS%20-%20PDF%20(5).pdf) to download the PPT.
 
-### Feel free to shoot your doubts [here](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/issues/1).
+### :fountain_pen: Feel free to shoot your doubts [here](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/issues/1).
 
-## Checkout my recent works below:
+## :bowtie: Checkout my recent works below:
 
 > [![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
 
