@@ -2,11 +2,11 @@
 
 ## A webinar by [HackOn Hackathon](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) :rocket:
 
-# :red_circle: [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](https://bit.ly/hackon-js/) 
+# :red_circle: [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](http://bit.ly/hackon-js) 
 
 <br>
 
-> ### Join at [bit.ly/hackon-js](https://bit.ly/hackon-js/)
+> ### Join at [bit.ly/hackon-js](http://bit.ly/hackon-js)
 
 ## About Me
 
