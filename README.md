@@ -101,3 +101,7 @@ _.forEach(allViewers, function (participant) {
 
 ```
 ---
+
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/) 
+
+
