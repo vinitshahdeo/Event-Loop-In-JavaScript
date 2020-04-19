@@ -76,6 +76,27 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 ### :fountain_pen: Feel free to shoot your doubts [here](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/issues/1).
 
+```javascript
+
+  ___      _     ___  ___                  
+ / _ \    | |    |  \/  |                  
+/ /_\ \___| | __ | .  . | ___              
+|  _  / __| |/ / | |\/| |/ _ \             
+| | | \__ \   <  | |  | |  __/             
+\_| |_/___/_|\_\ \_|  |_/\___|             
+                                           
+                                           
+  ___              _   _     _             
+ / _ \            | | | |   (_)            
+/ /_\ \_ __  _   _| |_| |__  _ _ __   __ _ 
+|  _  | '_ \| | | | __| '_ \| | '_ \ / _` |
+| | | | | | | |_| | |_| | | | | | | | (_| |
+\_| |_/_| |_|\__, |\__|_| |_|_|_| |_|\__, |
+              __/ |                   __/ |
+             |___/                   |___/ 
+
+```
+
 <br>
 
 ## :bowtie: Checkout my recent works below:
