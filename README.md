@@ -74,15 +74,12 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 ## Checkout my recent works below:
 
+> [![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
+
 - ### [Live Updates of Reported Corona Cases](http://corona-cases-india.netlify.com/) :mask:
 - ### [COVID-19 Tracker :bar_chart: | INDIA :india:](https://indiafightscorona.netlify.app/)
 - ### Consider leaving a star :star: [here](https://github.com/vinitshahdeo/COVID19).<sup>To be open-sourced pretty soon.</strong></sup>
 
-<br>
-
-[![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
-
-<br>
 
 ---
 
