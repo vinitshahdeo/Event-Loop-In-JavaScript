@@ -1,5 +1,7 @@
 # Event loop :arrows_counterclockwise: in JavaScript and rise of Asynchronous Behaviour.
 
+[![Poster - HackOn](./assets/poster.jpeg)](https://www.youtube.com/watch?v=zsRv8g3C4rY)
+
 ## A webinar by [HackOn Hackathon](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) :rocket:
 
 # :red_circle: [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](http://bit.ly/hackon-js) 
