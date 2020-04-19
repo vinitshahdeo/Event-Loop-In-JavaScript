@@ -14,7 +14,7 @@
 
 Do a **self analysis of your JS knowledge**, take a pause and predict the output for the below code snippet. :hushed:
 
-If you're able to predict the correct sequence of log statements, I hope you need not watch the video, **skip to the [takeaways](#five-five-takeaways-bulb) section**. :v: **If not, do watch the video and thank me later! :hugs:**
+If you're able to predict the correct sequence of log statements, I hope you need not watch the video, **skip to the [takeaways](#five-five-takeaways-bulb) section**. :v: **If not, do watch the [video](https://youtu.be/zsRv8g3C4rY?t=221) and thank me later! :hugs:**
 
 <br>
 
