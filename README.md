@@ -10,6 +10,34 @@
 
 > ### Join at [bit.ly/hackon-js](http://bit.ly/hackon-js)
 
+## Takeaways
+
+- JavaScript is **single threaded**, it simply means it has a **single call stack**.
+
+- GitHub has **maximum number of pull requests in JavaScript repositories**. Check the live stats [here](https://madnight.github.io/githut/#/pull_requests/2020/1). 
+
+- The asynchronous behaviour is not part of the JavaScript language itself, rather they are built on top of the core JavaScript language in the browser (or the programming environment) and accessed through the **browser APIs**.
+
+- **`setTimeout(function, delay)`** does not stand for the precise time delay after which the function is executed. It stands for the minimum wait time after which at some point in time the function will be executed. 
+
+> Take a look at the below code:
+
+```javascript
+
+function goCorona() {
+   console.log('Stay Home, Stay Safe');
+}
+
+setTimeout(goCorona, 5000);
+
+```
+
+> That doesn’t mean that `goCorona` will be executed in 5s but rather that, in 5000 ms, `goCorona` will be added to the queue. The queue, however, might have other events that have been added earlier — the function `goCorona` will have to wait. The idea here is the above code gaurantees that `Stay Home, Stay Safe` will be printed anytime after `5000ms`.
+
+- **The Event Loop has one simple job — to watch the Call Stack and the Callback Queue**. If the Call Stack is empty, it will take the first event from the queue and will push it to the Call Stack, which effectively runs it.
+
+<br>
+
 ## About Me
 
 
