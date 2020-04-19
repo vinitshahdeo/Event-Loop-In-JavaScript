@@ -1,6 +1,6 @@
 # Event loop :arrows_counterclockwise: in JavaScript and rise of Asynchronous Behaviour.
 
-## A webinar by [Coding Blocks](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) at [HackOn](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) Hackathon. :rocket:
+## A webinar by [HackOn Hackathon](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) :rocket:
 
 # :red_circle: [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](https://bit.ly/hackon-js/) 
 
