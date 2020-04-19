@@ -2,13 +2,13 @@
 
 ## A webinar by [Coding Blocks](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) at [HackOn](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) Hackathon. 
 
-<br><br>
+<br>
 
 # [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](https://bit.ly/hackon-js/)
 
 > ### Join at [bit.ly/hackon-js](https://bit.ly/hackon-js/)
 
-<br><br>
+<br>
 ## About Me
 
 
@@ -74,7 +74,7 @@ while(_.isAlive(new Virus('COVID-19'))) {
 - ### [COVID-19 Tracker :bar_chart: | INDIA :india:](https://indiafightscorona.netlify.app/)
 
 
-> #### Consider leaving a star [here](https://github.com/vinitshahdeo/COVID19).  :star: <br>(To be open-sourced pretty soon.)</strong></sup>
+> #### :star: Consider leaving a star [here](https://github.com/vinitshahdeo/COVID19).<sup>To be open-sourced pretty soon.</strong></sup>
 
 [![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
 
