@@ -69,7 +69,8 @@ while(_.isAlive(new Virus('COVID-19'))) {
 ## :confused: Any doubts? 
 
 > :point_right: You can find the [PPT](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/blob/master/doc/%5BHack0N%5D%20Event%20loop%20in%20JS%20-%20PDF%20(5).pdf) inside `docs` folder.
->:point_right: [Click here](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/raw/master/doc/%5BHack0N%5D%20Event%20loop%20in%20JS%20-%20PDF%20(5).pdf) to download the PPT.
+
+### :point_right: [Click here](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/raw/master/doc/%5BHack0N%5D%20Event%20loop%20in%20JS%20-%20PDF%20(5).pdf) to download the PPT.
 
 ### :fountain_pen: Feel free to shoot your doubts [here](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/issues/1).
 
