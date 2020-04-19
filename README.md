@@ -8,11 +8,13 @@
 
 > ### Join at [bit.ly/hackon-js](http://bit.ly/hackon-js)
 
-## Shall I watch?
+## :confused: Shall I watch?
 
-> **That's a good question!**
+> **That's a good question!** :raised_hand:
 
-Do a **self analysis of your JS knowledge**, take a pause and predict the output for the below code snippet. If you're able to predict the correct sequence of log statements, I hope you need not watch the video, **skip to the [takeaways](#five-five-takeaways-bulb) section**. **If not, do watch the video and thank me later! :hugs:**
+Do a **self analysis of your JS knowledge**, take a pause and predict the output for the below code snippet. :hushed:
+
+If you're able to predict the correct sequence of log statements, I hope you need not watch the video, **skip to the [takeaways](#five-five-takeaways-bulb) section**. :v: **If not, do watch the video and thank me later! :hugs:**
 
 <br>
 
