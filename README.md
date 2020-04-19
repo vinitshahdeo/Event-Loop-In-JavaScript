@@ -8,8 +8,6 @@
 
 > ### Join at [bit.ly/hackon-js](https://bit.ly/hackon-js/)
 
-<br>
-
 ## About Me
 
 
@@ -42,8 +40,7 @@ _.assign(new Speaker(), user, new Event(title));
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 
-
----
+> **Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk).**
 
 #### Well, in this unprecedented time, you all have showed interest. I thank all of you for joining me. Stay Safe at home.
 
@@ -74,7 +71,6 @@ while(_.isAlive(new Virus('COVID-19'))) {
 > You can find the PPT [here]().
 
 ### Feel free to raise an issue.
-
 
 ## Checkout my recent works below:
 
