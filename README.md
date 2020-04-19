@@ -10,7 +10,7 @@
 
 > ### Join at [bit.ly/hackon-js](http://bit.ly/hackon-js)
 
-## Takeaways
+## Takeaways :bulb:
 
 - JavaScript is **single threaded**, it simply means it has a **single call stack**.
 
