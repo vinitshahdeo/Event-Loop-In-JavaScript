@@ -6,9 +6,28 @@
 
 # [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](http://bit.ly/hackon-js) 
 
+> ### Join at [bit.ly/hackon-js](http://bit.ly/hackon-js)
+
+## Shall I watch?
+
+> **That's a good question!**
+
+Do a **self analysis of your JS knowledge**, take a pause and predict the output for the below code snippet. If you're able to predict the correct sequence of log statements, I hope you need not watch the video, skip to the takeaways section. **If not, do watch the video and thank me later! :hugs:**
+
 <br>
 
-> ### Join at [bit.ly/hackon-js](http://bit.ly/hackon-js)
+```javascript
+console.log('Hi!');
+
+console.log('Hope you\'re staying safe at home!');
+
+setTimeout(() => console.log('Turn your self isolation into self improvement!'), 1000);
+
+setTimeout(() => console.log('Chant, Go Corona, Corona Go 😃'), 0);	
+
+console.log('Thank You!');
+```
+
 
 ## :five: Five Takeaways :bulb:
 
