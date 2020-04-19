@@ -119,7 +119,7 @@ const THANK_YOU_MSG = `Thank you so much for being here!
 
 let sayThanks = (viewer) => { return THANK_YOU_MSG };
 
-_.forEach(allViewers, function (participant) {
+_.forEach(allViewers, function (viewer) {
 	_.times(Number.MAX_SAFE_INTEGER, sayThanks(viewer));
 });
 
