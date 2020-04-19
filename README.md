@@ -1,11 +1,14 @@
 # Event loop in JavaScript and rise of Asynchronous Behaviour.
 
-## A webinar by [Coding Blocks]() at [HackOn]() Hackathon.
+## A webinar by [Coding Blocks](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) at [HackOn](https://twitter.com/Vinit_Shahdeo/status/1251819929247993856) Hackathon. 
+
+<br><br>
 
 # [![YouTube Live](https://img.shields.io/badge/YouTube-Live-tomato.svg?style=for-the-badge&logo=youtube)](https://bit.ly/hackon-js/)
 
 > ### Join at [bit.ly/hackon-js](https://bit.ly/hackon-js/)
 
+<br><br>
 ## About Me
 
 
@@ -27,6 +30,8 @@ _.assign(new Speaker(), user, new Event(title));
 
 ```
 
+<br>
+
 |                                                                                         <a href="https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/vinit-shahdeo.jpg" width=150px height=150px /></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**                                                                                                                                        |
@@ -38,6 +43,41 @@ _.assign(new Speaker(), user, new Event(title));
 
 
 ---
+
+#### Well, in this unprecedented time, you all have showed interest. I thank all of you for joining me. Stay Safe at home.
+
+:mask: :house:
+<br><br>
+
+```javascript
+/**
+ * 
+ * Let's fight for Corona together!
+ */
+function stayAtHome() {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+
+while(_.isAlive(new Virus('COVID-19'))) {
+  // Stay home, Stay safe
+  stayAtHome();
+}
+```
+<br>
+
+## Checkout my recent works below:
+
+- ### [Live Updates of Reported Corona Cases](http://corona-cases-india.netlify.com/) :mask:
+- ### [COVID-19 Tracker :bar_chart: | INDIA :india:](https://indiafightscorona.netlify.app/)
+
+
+> #### Consider leaving a star [here](https://github.com/vinitshahdeo/COVID19).  :star: <br>(To be open-sourced pretty soon.)</strong></sup>
+
+[![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/vinitshahdeo/COVID19/)
+
 
 ---
 
@@ -54,3 +94,4 @@ _.forEach(allViewers, function (participant) {
 });
 
 ```
+---
