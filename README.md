@@ -33,9 +33,9 @@ console.log('Thank You!');
 
 ## :five: Five Takeaways :bulb:
 
-- JavaScript is **single threaded**, it simply means it has a **single call stack**.
+> GitHub has **maximum number of pull requests in JavaScript repositories**. Check the live stats [here](https://madnight.github.io/githut/#/pull_requests/2020/1). 
 
-- GitHub has **maximum number of pull requests in JavaScript repositories**. Check the live stats [here](https://madnight.github.io/githut/#/pull_requests/2020/1). 
+- JavaScript is **single threaded**, it simply means it has a **single call stack**.
 
 - The asynchronous behaviour is not part of the JavaScript language itself, rather they are built on top of the core JavaScript language in the browser (or the programming environment) and accessed through the **browser APIs**.
 
